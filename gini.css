@@ -1,0 +1,33 @@
+p{
+    margin: 30px;
+    background: yellow;
+    border: 1px solid black;
+    outline: 1px solid red;
+    outline-offset: 15px;
+    text-decoration: underline;
+}
+div {
+    border: 1px solid gray;
+    padding: 8px;
+}
+  
+h1{
+    text-align: center;
+    text-transform: uppercase;
+    color: #4CAF50;
+}
+  
+p{
+    text-indent: 50px;
+    text-align: justify;
+    letter-spacing: 3px;
+}
+p.small{
+    line-height: 0,7;
+}
+h1{
+    text-shadow: 10px 10px;
+}
+h2{
+    font-family: 'Times New Roman', Times, serif;
+}
